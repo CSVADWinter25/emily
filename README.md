@@ -1,5 +1,3 @@
-## Student Sample
+hi. 
 
-Empty template for student github repository for storing and sharing weekly projects. 
-
-This is the README document. Use it to describe a little about yourself!
+my namy is emily d'achiardi. i am a first year master student in the art department. i mostly make internet/browser art but am super interested in processing / generative art. 
