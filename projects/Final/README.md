@@ -1,14 +1,12 @@
 ## Final Project Readme
 
 
-link to final project 
-https://editor.p5js.org/sneaky-felix/sketches/_zUjbcgRY
+[i can make fonts? right, right, right.](https://editor.p5js.org/sneaky-felix/sketches/_zUjbcgRY)
 
+this project investigates how are fonts born? and more radically: what happens when we stretch the conditions of typographic life?
 
-![print6](https://github.com/user-attachments/assets/43f7c013-29ce-4201-8984-da68593a0662)
+at its core, this project is a typographic sandbox. it allows users to explore how letterforms can be averaged, blended, and pushed both structurally and stylistically, through a parametric interface that follows the anatomy of type. Users can download a PNG of their creations. Ideally, in the future users can download a TTF file (unsure how to accomplish that rn but in the future perhaps) 
+
 
 <img width="425" alt="Screenshot 2025-03-22 at 00 14 15" src="https://github.com/user-attachments/assets/50c8f105-13a3-46d3-aec1-885c9fd371c6" />
 
-
-
-This project is a text generator that merges multiple fonts and outlines them into a single shape and transforms it based on a series of parameters following the anatomy of fonts. Users can download a PNG of their creations. 
