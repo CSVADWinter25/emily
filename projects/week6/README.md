@@ -44,9 +44,25 @@ as mentioned before, Font Gauntlet is a huge inspiration as a tool for GUI (slid
 
 here are a few reference photos of Font Gauntlet 
 --> 
+
+
+
+
 <img width="257" alt="Screenshot 2025-03-22 at 00 03 28" src="https://github.com/user-attachments/assets/6a2f2948-7918-480d-8d59-55081192bc3e" />
+
+
+
+
+
 --> 
+
+
+
 <img width="1131" alt="Screenshot 2025-03-22 at 00 04 15" src="https://github.com/user-attachments/assets/a640e494-3b3c-47d7-8387-a5e8c7fa93a4" />
+
+
+
+
 --> 
 <img width="1130" alt="Screenshot 2025-03-22 at 00 04 44" src="https://github.com/user-attachments/assets/4530fdf4-16ed-43b1-884f-e07ad045fce8" />
 
