@@ -3,7 +3,7 @@
 
 [i can make fonts? right, right, right.](https://editor.p5js.org/sneaky-felix/sketches/_zUjbcgRY)
 
-this project investigates how are fonts born? and more radically: what happens when we stretch the conditions of typographic life?
+this project investigates how are fonts born? and what happens when we stretch the conditions of typographic life?
 
 at its core, this project is a typographic sandbox. it allows users to explore how letterforms can be averaged, blended, and pushed both structurally and stylistically, through a parametric interface that follows the anatomy of type. Users can download a PNG of their creations. Ideally, in the future users can download a TTF file (unsure how to accomplish that rn but in the future perhaps) 
 
