@@ -6,10 +6,10 @@ this project investigates how are fonts born? and more radically: what happens w
 
 a major conceptual and visual influence is [Font Gauntlet by Dinamo](https://fontgauntlet.com/)—a playful interface that allows designers to explore and visualize the font's they've created. it offers a framework for thinking about real-time typographic manipulation in a GUI format that is incredibly intuitive and clean (at least to me) 
 
-another grounding influence is camille utterback’s [Text Rain](https://camilleutterback.com/projects/text-rain/), which reimagines language as something physically interactive and responsive—bringing the body into conversation with text. within this, it becomes clear how generative systems can expand our knowledge of text. 
+another grounding influence is camille utterback’s [Text Rain](https://camilleutterback.com/projects/text-rain/), which reimagines language as something physically interactive and responsive. allowing the body to enter a conversation with text. within this, it becomes clear how generative systems can expand our knowledge of text. 
 
 
-at its core, this project is a typographic sandbox. it allows users to explore how letterforms can be averaged, blended, and pushed—structurally and stylistically—through a parametric interface that follows the anatomy of type.
+at its core, this project is a typographic sandbox. it allows users to explore how letterforms can be averaged, blended, and pushed both structurally and stylistically, through a parametric interface that follows the anatomy of type.
 
 --> users can select a preloaded set of ~10 fonts.
 --> users can add their own font. 
